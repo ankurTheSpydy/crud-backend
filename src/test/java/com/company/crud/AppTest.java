@@ -1,4 +1,4 @@
-package com.bnymellon.crud;
+package com.company.crud;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
